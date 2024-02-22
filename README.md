@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Mahmoud+Alaa!;Computer+Science+Student!;&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi... I'm+Mahmoud+Alaa;Computer+Science+Student;iOS developer;Competitive Programmer;&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000">
 </p>
 
 <h3 align="center">I'm Intersted in iOS Mobile Application Development</h3>
