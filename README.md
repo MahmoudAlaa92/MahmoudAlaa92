@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Mahmoud+Alaa!;Computer+Science+Student!;I'm Intersted in iOS Mobile Application Development!;&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Mahmoud+Alaa!;Computer+Science+Student!;I'm Intersted in iOS Mobile Application!;&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000">
 </p>
 
 <img align="center" src="https://miro.medium.com/max/1200/1*kW3vK1LpYOyG0JA12urVAQ.png" alt="Mahmoud Alaa" /> 
