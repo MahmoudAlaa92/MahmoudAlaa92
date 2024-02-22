@@ -1,10 +1,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Mahmoud+Alaa!;Computer+Science+Student!;Interested+in+learning+New+things!;&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Mahmoud+Alaa!;Computer+Science+Student!;I'm Intersted in iOS Mobile Application Development!;&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000">
 </p>
 
-<h3 align="center">I'm Intersted in iOS Mobile Application Development</h3>
 <img align="center" src="https://miro.medium.com/max/1200/1*kW3vK1LpYOyG0JA12urVAQ.png" alt="Mahmoud Alaa" /> 
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
@@ -31,3 +30,12 @@
 	  &emsp; 
 
 </div>
+
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+<p align="center">
+	<a href="mailto:mahmoudalaa.wr@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/MahmoudAlaa92"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/0201142128919"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/mahmoud-alaa-%EF%A3%BF-472293294/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/mahmoudalaa10002"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
+</p>
