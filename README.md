@@ -50,7 +50,7 @@
     <br>
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-yamany&show_icons=true&locale=en&layout=compact" alt="ahmed-yamany" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-yamany&show_icons=true&locale=en&theme=graywhite" alt="ahmed-yamany" /> <br> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudAlaa92&show_icons=true&locale=en&layout=compact" alt="MahmoudAlaa92" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudAlaa92&show_icons=true&locale=en&theme=graywhite" alt="MahmoudAlaa92" /> <br> </p>
 
-<p align="center"> <br> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-yamany&theme=swift" alt="ahmed-yamany" /></p>
+<p align="center"> <br> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MahmoudAlaa92&theme=swift" alt="MahmoudAlaa92" /></p>
