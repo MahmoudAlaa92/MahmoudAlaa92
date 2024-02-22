@@ -1,8 +1,10 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Mahmoud+Alaa!;Computer+Science+Student!;I'm Intersted in iOS Mobile Application!;&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Mahmoud+Alaa!;Computer+Science+Student!;&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000">
 </p>
+
+<h3 align="center">I'm Intersted in iOS Mobile Application Development</h3>
 
 <img align="center" src="https://miro.medium.com/max/1200/1*kW3vK1LpYOyG0JA12urVAQ.png" alt="Mahmoud Alaa" /> 
 
@@ -38,3 +40,12 @@
 	<a href="https://www.linkedin.com/in/mahmoud-alaa-%EF%A3%BF-472293294/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/mahmoudalaa10002"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+    <img src="https://bit.ly/37Epy2y" alt="C++" width="60px" title="C++"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+    <br>
+ </p>
