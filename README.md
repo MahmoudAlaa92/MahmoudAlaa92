@@ -11,8 +11,7 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- 👨‍💻 I'm Software Development Engineer 
-- ⚙️ I'm R&D Engineer @[Coademy](https://coachacademy.club/)
+- 👨‍💻 I'm iOS Developer
 - :school: I am a `Student` from the [Faculty of Computers & Informatics](https://egecmena.com/en/egypt/luxor-university_university/college-of-computing-and-artificial-intelligence) at [Luxor University](http://www.luxor.edu.eg/#/).
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Hackerrank`
 - ✍🏻 I love using Software as a solution for every Problem
