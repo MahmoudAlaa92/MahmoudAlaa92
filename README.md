@@ -9,8 +9,7 @@
 <img align="center" src="https://miro.medium.com/max/1200/1*kW3vK1LpYOyG0JA12urVAQ.png" alt="Mahmoud Alaa" /> 
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
-
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+<a href="" ><img src="https://komarev.com/ghpvc/?username=MahmoudAlaa92&label=Profile%20views&color=0e75b6&style=flat" alt="MahmoudAlaa92" /></a>
 
 <br><br>
 - 👨‍💻 I'm iOS Developer
