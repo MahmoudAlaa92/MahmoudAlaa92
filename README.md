@@ -16,7 +16,7 @@
 
 <br><br>
 - 👨‍💻 I'm iOS Developer
-- :school: I am a `Student` from the [Faculty of Computers & Informatics](https://egecmena.com/en/egypt/luxor-university_university/college-of-computing-and-artificial-intelligence) at [Luxor University](http://www.luxor.edu.eg/#/).
+- :school: I am a `Student` from the [Faculty of Computers & Informatics](http://www.luxor.edu.eg/#/) at [Luxor University](http://www.luxor.edu.eg/#/).
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Hackerrank`
 - ✍🏻 I love using Software as a solution for every Problem
 - 🤓 Always learning new things
